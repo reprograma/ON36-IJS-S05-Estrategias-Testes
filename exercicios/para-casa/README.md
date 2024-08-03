@@ -1,12 +1,8 @@
 # Exercício de Casa 🏠 
 
-![Tarefa](/Archive/99.%20Recursos/01.%20Imagens/tags/atividade-exercicio.svg)
- 
-# Desafio Semanal
-
 ### Objetivos de aprendizagem do desafio 🎯
 
-- Aprender sobre a importância e os benefícios dos testes automatizados em desenvolvimento de software.
+- Aprender sobre a importância e os benefícios dos testes  em desenvolvimento de software.
 - Compreender a diferença entre testes unitários, testes de integração e testes end-to-end (E2E).
 - Aplicar a metodologia TDD (Test-Driven Development) no desenvolvimento de novas funcionalidades.
 - Escrever testes unitários utilizando frameworks de teste em TypeScript.
@@ -16,7 +12,7 @@
 <h2 align=center> {Reprograma}Bank </h2>
   <h3>Implementando Testes e TDD</h3>
 
-Seu desafio é implementar testes automatizados para o sistema bancário desenvolvido nas semanas anteriores. Como desafio extra, você deverá utilizar a metodologia TDD para criar novas funcionalidades, como a função de Cartão de Crédito.
+Seu desafio é implementar testes  para o sistema bancário desenvolvido nas semanas anteriores. Como desafio extra, você deverá utilizar a metodologia TDD para criar novas funcionalidades, como a função de Cartão de Crédito.
 
 Abaixo estão os requisitos:
 
